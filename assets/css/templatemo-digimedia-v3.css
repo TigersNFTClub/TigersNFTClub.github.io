@@ -235,7 +235,7 @@ header
 .pre-header {
   background-color: #1063dd;
   height: 60px;
-  padding: 15px 0px;
+  padding: 15px 130px;
 }
 
 .pre-header ul li {
@@ -513,7 +513,7 @@ header
   height: 40px;
   text-indent: -9999em;
   z-index: 99;
-  right: 40px;
+  right: 20px;
   display: none;
 }
 
@@ -674,7 +674,7 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #fff;
+    background-color: #0000;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
